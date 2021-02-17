@@ -24,4 +24,4 @@ I used an 8" Memory Foam mattress, and I wouldn't recommend anything taller than
   * 1-1/4" 18ga Brad Nails
   * Wood Glue
 
-*** This bed does not conform to the recommended sizes for bar spacing for toddlers/infants!  I felt comfortable using the sizes as specified, please determine on your own if these are suitable for you situation.
+**This bed does not conform to the recommended sizes for bar spacing for toddlers/infants!  I felt comfortable using the sizes as specified, please determine on your own if these are suitable for you situation.**
