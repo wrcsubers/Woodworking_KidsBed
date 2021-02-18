@@ -10,7 +10,7 @@ This is a simple Twin sized bed frame made from dimensional lumber.  This bed fr
 
 I used an 8" Memory Foam mattress, and I wouldn't recommend anything taller than that as you lose side-rail height.  The height of the side rail is set at 12" to allow ample storage beneath the bed, my 2-1/2 year old son had no problem climbing in/out of bed himself at this height.
 
-CAD Files are provided if you want to change anything, or you can print the PDFs directly =)
+CAD Files are provided [here](https://github.com/wrcsubers/Woodworking_KidsBedFrame/tree/main/_CAD%20Files) if you want to change anything, or you can print the PDFs directly from [here](https://github.com/wrcsubers/Woodworking_KidsBedFrame/tree/main/_PDFs) =)
 
 * Lumber sizes used:
   * (10) 2" x 2" x 96"
